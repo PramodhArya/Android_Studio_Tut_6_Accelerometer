@@ -1,4 +1,4 @@
-package com.example.pc.accelerometer;
+package com.example.pramodharya.accelerometersaksham;
 
 import android.app.Activity;
 import android.os.Bundle;
